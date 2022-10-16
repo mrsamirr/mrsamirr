@@ -22,11 +22,11 @@
 
 <p align="left">
 
-<a href="https://twitter.com/itssamirr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itssamirr_" height="30" width="40" /></a>
+<a href="https://twitter.com/iamsamirr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itssamirr_" height="30" width="40" /></a>
 
 <a href="https://linkedin.com/in/mrsamirr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrsamirr" height="30" width="40" /></a>
 
-<a href="https://fb.com/sāmīr ansāri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100058725530543" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100058725530543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100058725530543" height="30" width="40" /></a>
 
 <a href="https://instagram.com/samirr.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samirr.in" height="30" width="40" /></a>
 
