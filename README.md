@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Md  Samirr Ansari </h1>
+<h1 align="center">Hi 👋, I'm Mr Samirr</h1>
 
 <h3 align="center">A passionate New Fresher developer from India</h3>
 
@@ -26,11 +26,11 @@
 
 <a href="https://linkedin.com/in/mrsamirr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrsamirr" height="30" width="40" /></a>
 
-<a href="https://fb.com/sāmīr ansāri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sāmīr ansāri" height="30" width="40" /></a>
+<a href="https://fb.com/sāmīr ansāri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100058725530543" height="30" width="40" /></a>
 
 <a href="https://instagram.com/samirr.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samirr.in" height="30" width="40" /></a>
 
-<a href="https://www.youtube.com/c/unusual smasher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unusual smasher" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UCc-MvbEXq74Ggfdka8PqAJw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unusual smasher" height="30" width="40" /></a>
 
 </p>
 
@@ -43,3 +43,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrsamirr&show_icons=true&locale=en" alt="mrsamirr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrsamirr&" alt="mrsamirr" /></p>
+
+
+
+
+
+
