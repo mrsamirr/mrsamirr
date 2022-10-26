@@ -1,5 +1,5 @@
 ![logo](https://github.com/mrsamirr/mrsamirr/blob/main/banner.png)
-<h1 align="center">Hi 👋, I'm Md Samirr Ansari </h1>
+<h1 align="center">Hi 👋, I'm Md Samer Ansari </h1>
 
 <h3 align="center">A passionate New Fresher developer from India</h3>
 
