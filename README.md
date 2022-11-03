@@ -31,7 +31,7 @@
 
 <a href="https://instagram.com/samirr.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samirr.in" height="30" width="40" /></a>
 
-<a href="https://youtube.com/channel/UCc-MvbEXq74Ggfdka8PqAJw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unusual smasher" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@unusualsmasher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unusual smasher" height="30" width="40" /></a>
 
 </p>
 
