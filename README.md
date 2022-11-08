@@ -1,4 +1,4 @@
-![logo](https://github.com/mrsamirr/mrsamirr/blob/main/banner.png)
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/mrsamirr/mrsamirr/main/untitled.png">
 <h1 align="center">Hi 👋, I'm Md Samer Ansari </h1>
 
 <h3 align="center">A passionate New Fresher developer from India</h3>
