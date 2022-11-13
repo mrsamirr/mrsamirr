@@ -1,6 +1,6 @@
-# Hi, I am Samirr! Connections here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px" height="30px">
 
-I am Md Samer Ansari, currently pursuing my B.Tech degree in Computer Science & Engineering from [Asansol Engineering College](https://www.aecwb.edu.in/).I am a Fresher Student Devloper.  ⚡ Fun fact **I think i am unpredictable**
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/mrsamirr/" target="_blank"> Md Samer Ansari </a></h1>
+ Currently pursuing my B.Tech degree in Computer Science & Engineering from [Asansol Engineering College](https://www.aecwb.edu.in/).I am a Fresher Student Devloper.  ⚡ Fun fact **I think i am unpredictable**
 
 & I am a Fresher Devloper Student.
 <h3 align="center">A passionate New Fresher developer from India</h3>
