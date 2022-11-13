@@ -1,35 +1,28 @@
 # Hi, I am Samirr! Connections here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px" height="30px">
 
-I am Md Samer Ansari, currently pursuing my B.Tech degree in Computer Science & Engineering from [Asansol Engineering College](https://www.aecwb.edu.in/).I am a Fresher Student Devloper 
+I am Md Samer Ansari, currently pursuing my B.Tech degree in Computer Science & Engineering from [Asansol Engineering College](https://www.aecwb.edu.in/).I am a Fresher Student Devloper.  ⚡ Fun fact **I think i am unpredictable**
 
 & I am a Fresher Devloper Student.
 <h3 align="center">A passionate New Fresher developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsamirr&label=Profile%20views&color=0e75b6&style=flat" alt="mrsamirr" /> </p>
 
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2809517/screenshots/5665564/conception-3.gif">
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
+<img align="right" alt="coding" width="1000" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
 
 <p align="left"> <a href="https://twitter.com/iamsamirr_" target="blank"><img src="https://img.shields.io/twitter/follow/iamsamirr_?logo=twitter&style=for-the-badge" alt="https://twitter.com/iamsamirr_" /></a> </p>
 
-- 📝 I regularly write articles on [New projects](New projects)
 
-- 💬 Ask me about **New projects & new experiences**
 
-- 📫 How to reach me **crueltykhan@gmail.com**
-
-- ⚡ Fun fact **I think i am unpredictable**
-
-<h3 align="left">Connect with me:</h3>
 
 <p align="left">
 
 
 
 
-<h1 align="center">Let's Get Connected</h1>
+<h1 align="center">Let's Get Connected🌐</h1>
 
 <div align="center">
 
@@ -50,7 +43,7 @@ I am Md Samer Ansari, currently pursuing my B.Tech degree in Computer Science & 
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools⚡:</h3>
 <p align="center"> 
 
 
@@ -61,7 +54,7 @@ I am Md Samer Ansari, currently pursuing my B.Tech degree in Computer Science & 
 
  
  
-<h3 align="left">📈Stats:</h3>
+<h3 align="left">Stats📈:</h3>
 
 <table>
 
