@@ -1,6 +1,6 @@
 # Hi, I am Samirr! Connections here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px" height="30px">
 
-I am [Md Samer Ansari], currently pursuing my B.Tech degree in Computer Science & Engineering from [Asansol Engineering College](https://www.aecwb.edu.in/).
+I am Md Samer Ansari, currently pursuing my B.Tech degree in Computer Science & Engineering from [Asansol Engineering College](https://www.aecwb.edu.in/).I am a Fresher Student Devloper 
 
 & I am a Fresher Devloper Student.
 <h3 align="center">A passionate New Fresher developer from India</h3>
@@ -28,15 +28,25 @@ I am [Md Samer Ansari], currently pursuing my B.Tech degree in Computer Science 
 
 
 
-<a href="https://twitter.com/iamsamirr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itssamirr_" height="30" width="40" /></a>
 
-<a href="https://linkedin.com/in/mrsamirr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrsamirr" height="30" width="40" /></a>
+<h1 align="center">Let's Get Connected</h1>
 
-<a href="https://www.facebook.com/profile.php?id=100058725530543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100058725530543" height="30" width="40" /></a>
+<div align="center">
 
-<a href="https://instagram.com/samirr.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samirr.in" height="30" width="40" /></a>
+<a href="https://twitter.com/iamsamirr_?t=FGCaSBbwsQRpsFlsc6rIfw&s=09" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a> <a  href="https://www.linkedin.com/in/mrsamirr/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a  href="https://youtube.com/channel/UCc-MvbEXq74Ggfdka8PqAJw" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a> <a href="mailto: smaitykhan@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <a  href="https://instagram.com/samirr.in"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> <a  href="https://t.me/iamsamirr"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
-<a href="https://www.youtube.com/@unusualsmasher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unusual smasher" height="30" width="40" /></a>
+
+
+
+
+
+
+
+   </a>
+
+
+
+
 
 </p>
 
