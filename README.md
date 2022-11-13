@@ -61,7 +61,7 @@ I am Md Samer Ansari, currently pursuing my B.Tech degree in Computer Science & 
 
  
  
-📈 Stats
+<h3 align="left">📈Stats:</h3>
 
 <table>
 
