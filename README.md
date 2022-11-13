@@ -3,7 +3,7 @@
 
 Currently pursuing my B.Tech degree in Computer Science & Engineering from Asansol Engineering College. I am a Fresher Student Devloper.  ⚡ Fun fact **I think i am unpredictable**
 
-& I am a Fresher Devloper Student.
+
 <h3 align="center">A passionate New Fresher developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsamirr&label=Profile%20views&color=0e75b6&style=flat" alt="mrsamirr" /> </p>
 
