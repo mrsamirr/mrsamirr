@@ -5,7 +5,7 @@ Currently pursuing my B.Tech degree in Computer Science & Engineering from Asans
 
 
 <h3 align="center">A passionate New Fresher developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsamirr&label=Profile%20views&color=0e75b6&style=flat" alt="mrsamirr" /> </p>
+[![](https://visitcount.itsvg.in/api?id=Mrsamirr&label=Stalkers%20%F0%9F%91%80&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 
 
@@ -14,7 +14,6 @@ Currently pursuing my B.Tech degree in Computer Science & Engineering from Asans
 
 
 <p align="left"> <a href="https://twitter.com/iamsamirr_" target="blank"><img src="https://img.shields.io/twitter/follow/iamsamirr_?logo=twitter&style=for-the-badge" alt="https://twitter.com/iamsamirr_" /></a> </p>
-
 
 
 
