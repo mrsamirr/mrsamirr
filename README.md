@@ -7,7 +7,7 @@ Currently pursuing my B.Tech degree in Computer Science & Engineering from Asans
 
 
 <h3 align="center">A passionate New Fresher developer from India</h3>
-[![](https://visitcount.itsvg.in/api?id=Mrsamirr&label=Stalkers%20%F0%9F%91%80&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 
 
 
