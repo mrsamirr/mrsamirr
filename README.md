@@ -6,7 +6,7 @@
 Currently pursuing my B.Tech degree in Computer Science & Engineering from Asansol Engineering College. I am a Fresher Student Devloper.  ⚡ Fun fact **I think i am unpredictable**
 
 
-<h3 align="center">A passionate New Fresher developer from India</h3>
+<h1 align="center">A passionate New Fresher developer from India🧑🏻‍💻</h1>
 
 
 
