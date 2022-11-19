@@ -70,9 +70,9 @@
 
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mrsamirr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mrsamirr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical"/>
 
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrsamirr&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrsamirr&show_icons=true&locale=en&layout=compact&theme=radical" />
 
 </td>
 
@@ -82,7 +82,7 @@
 
 <p align="center">
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrsamirr&theme=tokyonight" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrsamirr&theme=radical" />
 
 </p>
 
