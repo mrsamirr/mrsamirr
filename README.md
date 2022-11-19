@@ -36,7 +36,7 @@
 <h1 align="center">Github Statistics📊</h1>
    
    
-   [![Samir's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mrsamirr&theme=xcode)](https://github.com/mrsamirr)
+   [![Samir's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mrsamirr&theme=react-dark)](https://github.com/mrsamirr)
 
 
 
@@ -70,9 +70,9 @@
 
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mrsamirr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mrsamirr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=algolia"/>
 
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrsamirr&show_icons=true&locale=en&layout=compact&theme=radical" />
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrsamirr&show_icons=true&locale=en&layout=compact&theme=algolia" />
 
 </td>
 
@@ -82,7 +82,7 @@
 
 <p align="center">
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrsamirr&theme=radical" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrsamirr&theme=algolia" />
 
 </p>
 
