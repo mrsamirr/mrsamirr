@@ -91,3 +91,14 @@
 [![](https://visitcount.itsvg.in/api?id=Mrsamirr&label=Stalkers%20%F0%9F%91%80&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 [![GitHub followers](https://img.shields.io/github/followers/mrsamirr.svg?style=social&label=Follow)](https://github.com/Mrsamirr?tab=followers)
+<br>
+
+<h2 align=left>
+
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/target.gif" height="40" width= auto>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+Find me on Coding Platforms:
+
+<br></h2>
