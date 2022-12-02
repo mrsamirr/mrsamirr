@@ -57,20 +57,25 @@
 
 
 
-</p>
+<br>
 
-<h1 align="center">Languages and Tools⚡</h1>
-<p align="center"> 
+<h1 align=center>
 
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/ufo.gif" height="50" width= auto>
 
-<p align="center"> 
-
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" /> <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+&nbsp;&nbsp;&nbsp;&nbsp; Language & Tools ⚡: 
 
 
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" /> <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=OpenJDK&logoColor=ff7019&labelColor=141819&color=ff7019"/></a>  
  
  
-<h1 align="Center">Stats📈 </h1>
+<br>
+
+<h1 align=center>
+
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/laptop.gif" height="50" width= auto>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Github Stats 📈:<br></h2>
 
 <table>
 
@@ -94,19 +99,17 @@
 
 </p>
 
+
+
+
+
 <!--START_SECTION:waka-->
 
 [![](https://visitcount.itsvg.in/api?id=Mrsamirr&label=Stalkers%20%F0%9F%91%80&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 [![GitHub followers](https://img.shields.io/github/followers/mrsamirr.svg?style=social&label=Follow)](https://github.com/Mrsamirr?tab=followers)
-<br>
 
-<h2 align=left>
 
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/target.gif" height="40" width= auto>
+<h1 align="center">
 
-&nbsp;&nbsp;&nbsp;&nbsp;
 
-Find me on Coding Platforms:
-
-<br></h2>
