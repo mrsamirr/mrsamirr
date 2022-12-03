@@ -95,7 +95,7 @@
 
 <p align="center">
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrsamirr&theme=nightowl" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Mrsamirr&theme=nightowl&border_radius=20&date_format=j%20M%5B%20Y%5D" />
 
 </p>
 
