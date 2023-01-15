@@ -6,7 +6,7 @@
 <h1 align="center" >Currently pursuing my B.Tech degree in Computer Science & Engineering from Asansol Engineering College. I am a Fresher Student Devloper.  ⚡ Fun fact **I think i am unpredictable**</h1>
 
 
-<h1 align="center">A passionate New Fresher developer from India🧑🏻‍💻</h1> <img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/mrsamirr/mrsamirr/main/image_19fa5235-e6cf-444d-b3db-ed7460d57eda20221203_182054.jpg">
+<h3 align="center">A passionate New Fresher developer from India🧑🏻‍💻 </h3> <img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/mrsamirr/mrsamirr/main/image_19fa5235-e6cf-444d-b3db-ed7460d57eda20221203_182054.jpg">
 
 
 
