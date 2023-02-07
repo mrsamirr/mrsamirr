@@ -34,11 +34,12 @@
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/social.gif" height="35" width= auto>
 
 &nbsp;&nbsp;&nbsp;&nbsp; Lets Get Connected🌐:
-<a href="https://www.linkedin.com/in/mrsamirr/" target="_blank">
 
-  <img  align="center" width="28px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_1280.png" />
+   <a href="https://www.linkedin.com/in/mrsamirr/" target="_blank">
+ <img  align="center" width="28px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_1280.png" />
 
 </a>
+ 
 
 <a href="https://twitter.com/iamsamirr_" target="_blank">
 
