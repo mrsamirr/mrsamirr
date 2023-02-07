@@ -34,21 +34,34 @@
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/social.gif" height="35" width= auto>
 
 &nbsp;&nbsp;&nbsp;&nbsp; Lets Get Connected🌐:
+<a href="https://www.linkedin.com/in/mrsamirr/" target="_blank">
 
-   <br>
+  <img  align="center" width="28px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_1280.png" />
 
- <a href="https://bento.me/samir"><img alt="Bento" src="https://img.shields.io/badge/BENTO -4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"></a> <a href="https://twitter.com/iamsamirr_?t=FGCaSBbwsQRpsFlsc6rIfw&s=09" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /> </a> <a  href="https://www.linkedin.com/in/mrsamirr/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a  href="https://youtube.com/channel/UCc-MvbEXq74Ggfdka8PqAJw" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a> <a href="mailto: smaitykhan@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <a  href="https://instagram.com/samirr.in"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> <a  href="https://t.me/iamsamirr"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+</a>
+
+<a href="https://twitter.com/iamsamirr_" target="_blank">
+
+  <img  align="center" width="28px" src="https://as1.ftcdn.net/v2/jpg/03/20/88/34/1000_F_320883488_PMmkQget359WtY6foB1xFN3Wcvus6WTM.jpg" />
+
+</a>
+
+<a href="mailto:smaitykhan@gmail.com">
+
+  <img align="center" width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
+
+</a>
+
+<a href="http://bento.me/samir" target="_blank">
+
+  <img align="center" width="26px" src="https://pbs.twimg.com/profile_images/1603027246255685633/R8UyVx4C.jpg" />
+
+</a>
+
+<br>
+
+
    
-   
-
-
-
-
-
-
-
-   </a>
-
 
 
 
