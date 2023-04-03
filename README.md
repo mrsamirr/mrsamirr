@@ -91,9 +91,9 @@
 
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mrsamirr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nightowl&border_radius=20"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mrsamirr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical&border_radius=20"/>
 
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrsamirr&show_icons=true&locale=en&layout=compact&theme=nightowl&border_radius=20" />
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrsamirr&show_icons=true&locale=en&layout=compact&theme=radical&border_radius=20" />
 
 </td>
 
@@ -103,7 +103,7 @@
 
 <p align="center">
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Mrsamirr&theme=nightowl&border_radius=20&date_format=j%20M%5B%20Y%5D" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Mrsamirr&theme=radical&border_radius=20&date_format=j%20M%5B%20Y%5D" />
 
 </p>
 
