@@ -55,7 +55,7 @@
 
 <a href="http://bento.me/samir" target="_blank">
 
-  <img align="center" width="26px" src="https://pbs.twimg.com/profile_images/1603027246255685633/R8UyVx4C.jpg" />
+  <img align="center" width="26px" src="https://creatorspace.imgix.net/users/clc4w34xr00lfju0yz7hwvcfp/E4O6bTcBeQCAicYg-5hn0oo.jpg?w=300&h=300" />
 
 </a>
 
@@ -91,9 +91,9 @@
 
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mrsamirr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical&border_radius=20"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mrsamirr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=transparent&border_radius=20"/>
 
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrsamirr&show_icons=true&locale=en&layout=compact&theme=radical&border_radius=20" />
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrsamirr&show_icons=true&locale=en&layout=compact&theme=transparent&border_radius=20" />
 
 </td>
 
@@ -103,17 +103,17 @@
 
 <p align="center">
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Mrsamirr&theme=radical&border_radius=20&date_format=j%20M%5B%20Y%5D" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Mrsamirr&theme=transparent&border_radius=20&date_format=j%20M%5B%20Y%5D" />
 
 </p>
 
 
 
 
+<h1 align=center>
 
 <!--START_SECTION:waka-->
-
-[![](https://visitcount.itsvg.in/api?id=Mrsamirr&label=Stalkers%20%F0%9F%91%80&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=Mrsamirr&label=Stalkers%20%F0%9F%91%80&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 [![GitHub followers](https://img.shields.io/github/followers/mrsamirr.svg?style=social&label=Follow)](https://github.com/Mrsamirr?tab=followers)
 
