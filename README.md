@@ -1,9 +1,6 @@
-<img align="right" alt="coding" width="1000" src="https://raw.githubusercontent.com/mrsamirr/mrsamirr/main/image.jpg">
-
-
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/mrsamirr/" target="_blank"> Md Samer Ansari </a></h1>
+<h1 align="center" >Hey Folks👋🏻, I'm <a href="https://www.linkedin.com/in/mrsamirr/" target="_blank"> Md Samer Ansari </a></h1>
 <img width="40%" align="right"   src="image_19fa5235-e6cf-444d-b3db-ed7460d57eda20221203_182054.jpg" >
-<h1 align="center" >Currently pursuing my B.Tech degree in Computer Science & Engineering from Asansol Engineering College. I am a Fresher Student Devloper. </h1>
+<h1 align="center" >Currently pursuing my B.Tech degree in Computer Science & Engineering from Asansol Engineering College. I am a Python Devloper. </h1>
 
 
 <h3 align="center">A passionate New Fresher developer from India🧑🏻‍💻 </h3> 
