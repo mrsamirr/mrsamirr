@@ -124,7 +124,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=mrsamirr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=vision-friendly-dark&border_radius=20"/>
 
-<td align="center" width="500px"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrsamirr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&border_radius=20" />
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrsamirr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&border_radius=20" />
 
 </td>
 
