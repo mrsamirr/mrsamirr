@@ -77,11 +77,38 @@
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/ufo.gif" height="50" width= auto>
 
 &nbsp;&nbsp;&nbsp;&nbsp; Language & Tools ⚡: 
+<table>
+<tr>
+<td><h4>Programming Languages</h4></td>
+<td><img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&labelColor=blue&color=white" />
+     <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&labelColor=white&color=blue" />
+</td></tr>
+<tr>
+<td><h4>Web Development</h4></td>
+<td><img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&labelColor=white&color=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=white&color=1572B6" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-white?style=for-the-badge&logo=tailwindcss&labelColor=white&color=1CA1B8"/></a>
+</td></tr>
+<tr>
+<td><h4>Tools & Project Management</h4></td>
+<td><img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&labelColor=white&color=red"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&labelColor=black&color=181717"/>
+<img src="https://img.shields.io/badge/VSCode-cyan?style=for-the-badge&logo=visual%20studio%20code&labelColor=00497a&color=007ACC"/>
+   <img src="https://img.shields.io/badge/Netlify-32e6e2?style=for-the-badge&logo=netlify&labelColor=black&color=32e6e2"/>
+</td>  
+  </tr>  
+  <tr>
+<td><h4>Design</h4></td>
+<td>
+<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> 
+<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+ </td></tr>
+</table>
 
 
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" /> 
-<br>
-<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+
+
+
 
 <h1 align=center>
 
@@ -95,21 +122,32 @@
 
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mrsamirr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical&border_radius=20"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mrsamirr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=vision-friendly-dark&border_radius=20"/>
 
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrsamirr&show_icons=true&locale=en&layout=compact&theme=radical&border_radius=20" />
+<td align="center" width="500px"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrsamirr&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&border_radius=20" />
 
 </td>
 
 </tr>
 
+
+
 </table>
 
 <p align="center">
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Mrsamirr&theme=radical&border_radius=20&date_format=j%20M%5B%20Y%5D" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Mrsamirr&theme=vision-friendly-dark&border_radius=20&date_format=j%20M%5B%20Y%5D" />
 
 </p>
+<h2 align="left">
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/hourglass1.gif" height="50" width= auto>
+&nbsp;&nbsp;&nbsp;&nbsp;
+Recent Activity :
+<br></h2>
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrsamirr&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
+
 
 
 
@@ -119,8 +157,9 @@
 <!--START_SECTION:waka-->
   [![](https://visitcount.itsvg.in/api?id=Mrsamirr&label=Stalkers%20%F0%9F%91%80&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-[![GitHub followers](https://img.shields.io/github/followers/mrsamirr.svg?style=social&label=Follow)](https://github.com/Mrsamirr?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/mrsamirr.svg?style=social&label=Followers🌟)](https://github.com/Mrsamirr?tab=followers)
 
 
 
 
+ ###### Show some ❤️ by ⭐ing some of the repos. I'd really appreciate it.
