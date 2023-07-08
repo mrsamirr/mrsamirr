@@ -79,18 +79,18 @@
 &nbsp;&nbsp;&nbsp;&nbsp; Language & Tools ⚡: 
 <table>
 <tr>
-<td><h4>Programming Languages</h4></td>
+<td><p>Programming Languages</p></td>
 <td><img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&labelColor=blue&color=white" />
      <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&labelColor=white&color=blue" />
 </td></tr>
 <tr>
-<td><h4>Web Development</h4></td>
+<td><p>Web Development</p></td>
 <td><img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&labelColor=white&color=E34F26"/>
 <img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=white&color=1572B6" />
 <img src="https://img.shields.io/badge/Tailwind%20CSS-white?style=for-the-badge&logo=tailwindcss&labelColor=white&color=1CA1B8"/></a>
 </td></tr>
 <tr>
-<td><h4>Tools & Project Management</h4></td>
+<td><p>Tools & Project Management</p></td>
 <td><img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&labelColor=white&color=red"/>
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&labelColor=black&color=181717"/>
 <img src="https://img.shields.io/badge/VSCode-cyan?style=for-the-badge&logo=visual%20studio%20code&labelColor=00497a&color=007ACC"/>
@@ -98,7 +98,7 @@
 </td>  
   </tr>  
   <tr>
-<td><h4>Design</h4></td>
+<td><p>Design</p></td>
 <td>
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> 
 <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
