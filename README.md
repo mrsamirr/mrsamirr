@@ -1,8 +1,15 @@
 <h1 align="center" >Hey Folks👋🏻, I'm <a href="https://www.linkedin.com/in/mrsamirr/" target="_blank"> Md Samer Ansari </a></h1>
+<h3>I am currently studying computer science at <a href="http://www.aecwb.edu.in/" target="_blank"> Asansol Engineering College </a>,  I am proficient in HTML5, CSS3, Tailwind CSS . I have a understanding of web design principles and user experience (UX) design. I am also skilled in Web Designing by Using Figma & Sometime creating Designs from Canva also.I am a highly motivated and results-oriented individual with a strong work ethic. & I am confident that I have the skills and experience necessary to be successful in a web development role.</h3>
+
+
+
+
+
+
+
 <img width="40%" align="right"   src="image_19fa5235-e6cf-444d-b3db-ed7460d57eda20221203_182054.jpg" >
 
 
-<h3 align="center">A passionate New Fresher developer from India🧑🏻‍💻 </h3> 
 
 
 
