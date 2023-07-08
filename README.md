@@ -7,7 +7,6 @@
 
 
 
-<img width="40%" align="right"   src="image_19fa5235-e6cf-444d-b3db-ed7460d57eda20221203_182054.jpg" >
 
 
 
@@ -16,7 +15,8 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/iamsamirr_" target="blank"><img src="https://img.shields.io/twitter/follow/iamsamirr_?logo=twitter&style=for-the-badge&color=008FF5&labelColor=1c1917" height="20px" alt="https://twitter.com/iamsamirr_" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/iamsamirr_" target="blank"><img src="https://img.shields.io/twitter/follow/iamsamirr_?logo=twitter&style=for-the-badge&color=008FF5&labelColor=ffffff" height="20px" alt="Samirr⚡" /></a> </p>
 
 
 
