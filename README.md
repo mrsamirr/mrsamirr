@@ -81,6 +81,7 @@
 <tr>
 <td><p>Programming Languages</p></td>
 <td><img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&labelColor=blue&color=white" />
+   <img src="https://img.shields.io/badge/CPP-blue?style=for-the-badge&logo=cplusplus&logoColor=blue&color=00599C&labelColor=white"/>
      <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&labelColor=white&color=blue" />
 </td></tr>
 <tr>
