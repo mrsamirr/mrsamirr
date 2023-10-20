@@ -77,34 +77,12 @@
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/ufo.gif" height="50" width= auto>
 
 &nbsp;&nbsp;&nbsp;&nbsp; Language & Tools ⚡: 
-<table>
-<tr>
-<td><p>Programming Languages</p></td>
-<td><img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&labelColor=blue&color=white" />
-   <img src="https://img.shields.io/badge/CPP-blue?style=for-the-badge&logo=cplusplus&logoColor=blue&color=00599C&labelColor=white"/>
-     <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&labelColor=white&color=blue" />
-</td></tr>
-<tr>
-<td><p>Web Development</p></td>
-<td><img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&labelColor=white&color=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=white&color=1572B6" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-white?style=for-the-badge&logo=tailwindcss&labelColor=white&color=1CA1B8"/></a>
-</td></tr>
-<tr>
-<td><p>Tools & Project Management</p></td>
-<td><img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&labelColor=white&color=red"/>
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&labelColor=black&color=181717"/>
-<img src="https://img.shields.io/badge/VSCode-cyan?style=for-the-badge&logo=visual%20studio%20code&labelColor=00497a&color=007ACC"/>
-   <img src="https://img.shields.io/badge/Netlify-32e6e2?style=for-the-badge&logo=netlify&labelColor=black&color=32e6e2"/>
-</td>  
-  </tr>  
-  <tr>
-<td><p>Design</p></td>
-<td>
-<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> 
-<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
- </td></tr>
-</table>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,tailwindcss,git,github,vscode,netlify,figma" />
+  </a>
+</p>
 
 
 
