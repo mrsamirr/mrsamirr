@@ -37,41 +37,14 @@
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/social.gif" height="35" width= auto>
 
 &nbsp;&nbsp;&nbsp;&nbsp; Lets Get Connected🌐:
-
-   <a href="https://www.linkedin.com/in/mrsamirr/" target="_blank">
- <img  align="center" width="28px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_1280.png" />
-
-</a>
- 
-
-<a href="https://twitter.com/iamsamirr_" target="_blank">
-
-  <img  align="center" width="28px" src="https://as1.ftcdn.net/v2/jpg/03/20/88/34/1000_F_320883488_PMmkQget359WtY6foB1xFN3Wcvus6WTM.jpg" />
-
-</a>
-
-<a href="mailto:smaitykhan@gmail.com">
-
-  <img align="center" width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
-
-</a>
-
-<a href="http://bento.me/samir" target="_blank">
-
-  <img align="center" width="26px" src="https://creatorspace.imgix.net/users/clc4w34xr00lfju0yz7hwvcfp/E4O6bTcBeQCAicYg-5hn0oo.jpg?w=300&h=300" />
-
-</a>
-
-<br>
-
-
-   
-
-
-
-
-<br>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/mrsamirr/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+   <a href="https://twitter.com/iamsamirr_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+    </a>
+</p>
 <h1 align=center>
 
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/ufo.gif" height="50" width= auto>
@@ -83,12 +56,6 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,tailwindcss,git,github,vscode,netlify,figma" />
   </a>
 </p>
-
-
-
-
-
-
 <h1 align=center>
 
 <img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/laptop.gif" height="50" width= auto>
