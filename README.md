@@ -1,5 +1,5 @@
 <h1 align="center" >Hey Folks👋🏻, I'm <a href="https://www.linkedin.com/in/mrsamirr/" target="_blank"> Md Samer Ansari </a></h1>
-<p>I am currently studying computer science at <a href="http://www.aecwb.edu.in/" target="_blank"> Asansol Engineering College </a>,  I am proficient in Doing DSA in C++ . I have also a better understanding of web design principles by using HTML,CSS and user experience (UX) design . I am also skilled in Web Designing by Using Figma & Sometime creating Designs from Canva also.I am a highly motivated and results-oriented individual with a strong work ethic. & I am confident that I have the skills and experience necessary to be successful in a web development role.</p>
+<p>I am 2nd Year CSE Undergraduate student at Asansol Engineering College, proficient in C++ for DSA. I also have a solid grasp of web design principles, including HTML, CSS, Tailwind CSS, Node.js and UX design. Additionally, I excel in web designing using Figma and occasionally create designs with Canva. My motivation, strong work ethic, and confidence in my skills make me a valuable candidate for a web development role.</p>
 
 
 
