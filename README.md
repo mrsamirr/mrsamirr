@@ -1,5 +1,8 @@
 <h1 align="center" >Hey Folks👋🏻, I'm <a href="https://www.linkedin.com/in/mrsamirr/" target="_blank"> Md Samer Ansari </a></h1>
+[![An image of @mrsamirr7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrsamirr7)](https://holopin.io/@mrsamirr7)
 <p>I am 2nd Year CSE Undergraduate student at Asansol Engineering College, proficient in C++ for DSA. I also have a solid grasp of web design principles, including HTML, CSS, Tailwind CSS, Node.js and UX design. Additionally, I excel in web designing using Figma and occasionally create designs with Canva. My motivation, strong work ethic, and confidence in my skills make me a valuable candidate for a web development role.</p>
+[![@mrsamirr7's Holopin board](https://holopin.me/mrsamirr7)](https://holopin.io/@mrsamirr7)
+
 
 
 
