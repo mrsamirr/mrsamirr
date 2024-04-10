@@ -58,7 +58,7 @@ target="_blank"> Md Samer Ansari </a></h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,tailwindcss,js,nodejs,express,mongodb,postman,git,github,vscode,netlify,figma" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,tailwindcss,js,nodejs,express,mongodb,postman,git,github,vscode,npm,vercel,netlify,figma" />
   </a>
 </p>
 <h1 align=center>
