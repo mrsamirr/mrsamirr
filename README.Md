@@ -22,7 +22,7 @@ My Github Stats
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,bash,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,ts,bash,python)](https://skillicons.dev)
 
 <h2>Frameworks & Databases</h2>
   
