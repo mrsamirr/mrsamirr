@@ -26,7 +26,7 @@ My Github Stats
 
 <h2>Frameworks & Databases</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=express,react,tailwindcss,nodejs,mongo,postgres,prisma, postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,react,tailwindcss,nodejs,mongo,postgres,prisma)](https://skillicons.dev)
 
 <h2>Tools</h2>
  
