@@ -6,6 +6,13 @@
   I like Solving DSA problems on LeetCode  and love to making, breaking, experimenting, developing and learning things about
   the web.
 </h4>
+<h3>
+Get Know About me 
+</h3>
+
+```
+ npx devsamer
+```
 
 <h2>GitHub Stats</h2>
 <details>
