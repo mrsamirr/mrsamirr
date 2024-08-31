@@ -33,7 +33,7 @@ My Github Stats
 
 <h2>Frameworks</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=nextjs,express,react,tailwindcss,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,cloudflare,express,react,tailwindcss,nodejs)](https://skillicons.dev)
 
 <h2>Databases</h2>
   
