@@ -20,7 +20,7 @@ Get Know About me
 My Github Stats
 </summary>
 
-![Samer's Github Stats](https://github-readme-stats.vercel.app/api?username=mrsamirr&show_icons=true&hide_title=true&count_private=true&theme=dark)
+![Samer's Github Stats](https://github-readme-stats.vercel.app/api?username=mrsamirr&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark)
 
 
 </details>
