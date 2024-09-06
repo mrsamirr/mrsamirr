@@ -3,8 +3,8 @@
 <h2> I'm <a href="https://www.linkedin.com/in/mrsamirr/" target="_blank"> Md Samer Ansari </a></h2>
 
 <h4 >
-  I like Solving DSA problems on LeetCode  and love to making, breaking, experimenting, developing and learning things about
-  the web.
+  I like Solving DSA problems on LeetCode and love to making, breaking, experimenting, developing and learning things about
+  the web
 </h4>
 <h3>
 Get Know About me 
