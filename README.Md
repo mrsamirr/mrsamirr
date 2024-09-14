@@ -29,7 +29,7 @@ My Github Stats
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,ts,bash,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,js,ts,bash,python)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
   
@@ -41,7 +41,7 @@ My Github Stats
 
 <h2>Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=neovim,git,npm,vercel,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,vim,git,docker,linux)](https://skillicons.dev)
 
 
 
