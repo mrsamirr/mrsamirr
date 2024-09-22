@@ -16,9 +16,6 @@ Get Know About me
 
 <h2>GitHub Stats</h2>
 <details>
-<summary> 
-My Github Stats
-</summary>
 
 ![Samer's Github Stats](https://github-readme-stats.vercel.app/api?username=mrsamirr&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark)
 
