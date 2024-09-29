@@ -3,8 +3,7 @@
 <h2> I'm <a href="https://www.linkedin.com/in/mrsamirr/" target="_blank"> Md Samer Ansari </a></h2>
 
 <h4 >
-  I like Solving DSA problems on LeetCode and love to making, breaking, experimenting, developing and learning things about
-  the web
+I thrive on the thrill of cracking DSA challenges on LeetCode while diving into the endless possibilities of the web—building, breaking, and reinventing along the way.
 </h4>
 <h3>
 Get Know About me 
@@ -36,7 +35,7 @@ Get Know About me
 
 <h2>Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=neovim,vim,git,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,vim,git,docker,linux,githubactions)](https://skillicons.dev)
 
 
 
