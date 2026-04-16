@@ -4,22 +4,27 @@ I'm **Md Samer Ansari** — building things on the internet. u can google me �
 
 #### 👨‍💻 Repositories I created recently
 <!--RECENT_REPOS-->
-- placeholder
+- **[mrsamirr/velorah](https://github.com/mrsamirr/velorah)**
+- **[mrsamirr/saminstance](https://github.com/mrsamirr/saminstance)** - Auto-generated repository with commit history
 <!--/RECENT_REPOS-->
 
 #### 🚀 Latest releases I've contributed to
 <!--RECENT_RELEASES-->
-- placeholder
+- Nothing yet — check back soon!
 <!--/RECENT_RELEASES-->
 
 #### ⭐ Recent Stars
 <!--RECENT_STARS-->
-- placeholder
+- **[jayanthmb14/forthepeople](https://github.com/jayanthmb14/forthepeople)** - India's free, real-time district-level civic transparency platform. 29 dashboards per district. (1 week ago)
+- **[santifer/career-ops](https://github.com/santifer/career-ops)** - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. (1 week ago)
+- **[anthropics/claude-code](https://github.com/anthropics/claude-code)** - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (2 weeks ago)
+- **[Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research)** - Research into how agentic AI coding assistants work — reconstructed prompt patterns, agent coordination, and security classification (2 weeks ago)
+- **[SaiAkhil066/DeepSeek-RAG-Chatbot](https://github.com/SaiAkhil066/DeepSeek-RAG-Chatbot)** - 100 % FREE, Private (No Internet) DeepSeek’s Advanced RAG: Boost Your RAG Chatbot: Hybrid Retrieval (BM25 + FAISS) + Neural Reranking + HyDe🚀 (2 months ago)
 <!--/RECENT_STARS-->
 
 #### ⤵️ Recent work
 <!--RECENT_ACTIVITY-->
-- placeholder
+- No public activity yet!
 <!--/RECENT_ACTIVITY-->
 
 ---
