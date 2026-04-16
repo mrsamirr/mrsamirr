@@ -72,20 +72,20 @@ async function getRecentStars() {
 }
 
 async function getRecentReleases() {
-  // Get repos the user has recently pushed to
+  // Get repos the user has recently contributed to (org repos only, exclude personal)
   const { data: events } = await octokit.activity.listPublicEventsForUser({
     username: USERNAME,
     per_page: 100,
   });
 
+  // Get unique repos from push events, excluding personal repos
   const pushRepos = [
     ...new Set(
       events
-        .filter((e) => e.type === "PushEvent")
+        .filter((e) => e.type === "PushEvent" && !e.repo.name.startsWith(`${USERNAME}/`))
         .map((e) => e.repo.name)
-        .slice(0, 10)
     ),
-  ];
+  ].slice(0, 15);
 
   const releases = [];
 
@@ -104,9 +104,30 @@ async function getRecentReleases() {
     if (releases.length >= 5) break;
   }
 
-  if (releases.length === 0) return "- Nothing yet — check back soon!";
+  // If no releases found, show recent commits to org repos instead (deduplicated by repo)
+  if (releases.length === 0) {
+    const seenRepos = new Set();
+    const orgCommits = [];
+
+    for (const e of events) {
+      if (e.type !== "PushEvent" || e.repo.name.startsWith(`${USERNAME}/`)) continue;
+      if (seenRepos.has(e.repo.name)) continue;
+
+      seenRepos.add(e.repo.name);
+      const commits = e.payload.commits || [];
+      const msg = commits.length > 0 ? commits[commits.length - 1].message.split("\n")[0] : "commits";
+      const shortMsg = msg.length > 50 ? msg.slice(0, 50) + "..." : msg;
+      orgCommits.push(`- [${e.repo.name}](https://github.com/${e.repo.name}) — ${shortMsg} (${timeAgo(e.created_at)})`);
+
+      if (orgCommits.length >= 5) break;
+    }
+
+    if (orgCommits.length === 0) return "- Nothing yet — check back soon!";
+    return orgCommits.join("\n");
+  }
 
   return releases
+    .sort((a, b) => new Date(b.published) - new Date(a.published))
     .map((r) => `- [${r.name}](${r.url}) (${timeAgo(r.published)})`)
     .join("\n");
 }
@@ -118,31 +139,44 @@ async function getRecentActivity() {
   });
 
   const lines = [];
+  const seenRepos = new Set(); // avoid duplicate repos in a row
 
   for (const event of events) {
     if (lines.length >= 5) break;
+
+    // Skip consecutive events from same repo for cleaner output
+    const repoKey = `${event.repo.name}-${event.type}`;
 
     if (event.type === "PullRequestEvent" && event.payload.action === "opened") {
       const pr = event.payload.pull_request;
       lines.push(
         `- [${event.repo.name}](https://github.com/${event.repo.name}) ➔ **[${pr.title}](${pr.html_url})** - ${timeAgo(event.created_at)}`
       );
-    } else if (event.type === "PushEvent") {
+      seenRepos.add(repoKey);
+    } else if (event.type === "PushEvent" && !seenRepos.has(repoKey)) {
       const commits = event.payload.commits || [];
       if (commits.length > 0) {
-        const msg = commits[commits.length - 1].message.split("\n")[0];
+        const msg = commits[commits.length - 1].message.split("\n")[0].slice(0, 60);
+        const displayMsg = commits[commits.length - 1].message.split("\n")[0].length > 60 ? msg + "..." : msg;
         lines.push(
-          `- [${event.repo.name}](https://github.com/${event.repo.name}) ➔ **${msg}** - ${timeAgo(event.created_at)}`
+          `- [${event.repo.name}](https://github.com/${event.repo.name}) ➔ **${displayMsg}** - ${timeAgo(event.created_at)}`
         );
+        seenRepos.add(repoKey);
       }
     } else if (event.type === "CreateEvent" && event.payload.ref_type === "repository") {
       lines.push(
-        `- Created new repo **[${event.repo.name}](https://github.com/${event.repo.name})** - ${timeAgo(event.created_at)}`
+        `- Created **[${event.repo.name}](https://github.com/${event.repo.name})** - ${timeAgo(event.created_at)}`
       );
     } else if (event.type === "IssuesEvent" && event.payload.action === "opened") {
       const issue = event.payload.issue;
       lines.push(
         `- [${event.repo.name}](https://github.com/${event.repo.name}) ➔ **[${issue.title}](${issue.html_url})** - ${timeAgo(event.created_at)}`
+      );
+    } else if (event.type === "PullRequestReviewEvent") {
+      const pr = event.payload.pull_request;
+      const prUrl = pr.html_url || `https://github.com/${event.repo.name}/pull/${pr.number}`;
+      lines.push(
+        `- Reviewed [${event.repo.name}#${pr.number}](${prUrl}) - ${timeAgo(event.created_at)}`
       );
     }
   }

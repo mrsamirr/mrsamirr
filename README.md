@@ -1,4 +1,4 @@
-### Hey, I'm Samer 👋
+### Hey Folks 👋
 
 I'm **Md Samer Ansari** — building things on the internet. u can google me 👀
 
@@ -8,9 +8,13 @@ I'm **Md Samer Ansari** — building things on the internet. u can google me �
 - **[mrsamirr/saminstance](https://github.com/mrsamirr/saminstance)** - Auto-generated repository with commit history
 <!--/RECENT_REPOS-->
 
-#### 🚀 Latest releases I've contributed to
+#### 🚀 Recent contributions
 <!--RECENT_RELEASES-->
-- Nothing yet — check back soon!
+- [LookAround-B/Stable](https://github.com/LookAround-B/Stable) — commits (49 minutes ago)
+- [LookAround-B/eirs](https://github.com/LookAround-B/eirs) — commits (8 hours ago)
+- [LookAround-B/horsey](https://github.com/LookAround-B/horsey) — commits (yesterday)
+- [LookAround-B/Event_MVP](https://github.com/LookAround-B/Event_MVP) — commits (3 days ago)
+- [LookAround-B/ai_cavalli_prod](https://github.com/LookAround-B/ai_cavalli_prod) — commits (1 week ago)
 <!--/RECENT_RELEASES-->
 
 #### ⭐ Recent Stars
@@ -24,7 +28,8 @@ I'm **Md Samer Ansari** — building things on the internet. u can google me �
 
 #### ⤵️ Recent work
 <!--RECENT_ACTIVITY-->
-- No public activity yet!
+- Reviewed [LookAround-B/ai_cavalli_prod#4](https://github.com/LookAround-B/ai_cavalli_prod/pull/4) - 3 weeks ago
+- Reviewed [LookAround-B/ai_cavalli_prod#3](https://github.com/LookAround-B/ai_cavalli_prod/pull/3) - 3 weeks ago
 <!--/RECENT_ACTIVITY-->
 
 ---
