@@ -1,0 +1,40 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # runs every 6 hours
+  workflow_dispatch:          # also lets you trigger it manually
+
+jobs:
+  update-readme:
+    name: Update README with latest GitHub activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install @octokit/rest
+
+      - name: Generate README sections
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: mrsamirr
+        run: node .github/scripts/update-readme.js
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git diff --quiet && git diff --staged --quiet || (
+            git add README.md &&
+            git commit -m "chore: update README [skip ci]" &&
+            git push
+          )
