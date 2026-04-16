@@ -1,8 +1,10 @@
 name: Update README
 
 on:
+  push:
+    branches: [main]          # runs on push to main
   schedule:
-    - cron: "0 */6 * * *"   # runs every 6 hours
+    - cron: "0 */6 * * *"     # runs every 6 hours
   workflow_dispatch:          # also lets you trigger it manually
 
 jobs:
