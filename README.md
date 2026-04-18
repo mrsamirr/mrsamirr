@@ -4,17 +4,18 @@ I'm **Md Samer Ansari** — building things on the internet. u can google me �
 
 #### 👨‍💻 Repositories I created recently
 <!--RECENT_REPOS-->
+- **[mrsamirr/the-assigment](https://github.com/mrsamirr/the-assigment)**
+- **[mrsamirr/the-expo](https://github.com/mrsamirr/the-expo)**
 - **[mrsamirr/velorah](https://github.com/mrsamirr/velorah)**
-- **[mrsamirr/saminstance](https://github.com/mrsamirr/saminstance)** - Auto-generated repository with commit history
 <!--/RECENT_REPOS-->
 
 #### 🚀 Recent contributions
 <!--RECENT_RELEASES-->
-- [LookAround-B/Stable](https://github.com/LookAround-B/Stable) — commits (54 minutes ago)
-- [LookAround-B/eirs](https://github.com/LookAround-B/eirs) — commits (8 hours ago)
-- [LookAround-B/horsey](https://github.com/LookAround-B/horsey) — commits (yesterday)
-- [LookAround-B/Event_MVP](https://github.com/LookAround-B/Event_MVP) — commits (3 days ago)
-- [LookAround-B/ai_cavalli_prod](https://github.com/LookAround-B/ai_cavalli_prod) — commits (1 week ago)
+- [LookAround-B/horsey](https://github.com/LookAround-B/horsey) — commits (17 hours ago)
+- [LookAround-B/Stable](https://github.com/LookAround-B/Stable) — commits (yesterday)
+- [LookAround-B/eirs](https://github.com/LookAround-B/eirs) — commits (yesterday)
+- [LookAround-B/Event_MVP](https://github.com/LookAround-B/Event_MVP) — commits (4 days ago)
+- [LookAround-B/ai_cavalli_prod](https://github.com/LookAround-B/ai_cavalli_prod) — commits (2 weeks ago)
 <!--/RECENT_RELEASES-->
 
 #### ⭐ Recent Stars
@@ -28,8 +29,7 @@ I'm **Md Samer Ansari** — building things on the internet. u can google me �
 
 #### ⤵️ Recent work
 <!--RECENT_ACTIVITY-->
-- Reviewed [LookAround-B/ai_cavalli_prod#4](https://github.com/LookAround-B/ai_cavalli_prod/pull/4) - 3 weeks ago
-- Reviewed [LookAround-B/ai_cavalli_prod#3](https://github.com/LookAround-B/ai_cavalli_prod/pull/3) - 3 weeks ago
+- No public activity yet!
 <!--/RECENT_ACTIVITY-->
 
 ---
