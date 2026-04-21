@@ -11,17 +11,17 @@ I'm **Md Samer Ansari** — building things on the internet. u can google me �
 
 #### 🚀 Recent contributions
 <!--RECENT_RELEASES-->
-- [LookAround-B/horsey](https://github.com/LookAround-B/horsey) — commits (2 days ago)
-- [LookAround-B/Stable](https://github.com/LookAround-B/Stable) — commits (2 days ago)
-- [LookAround-B/eirs](https://github.com/LookAround-B/eirs) — commits (2 days ago)
-- [LookAround-B/Event_MVP](https://github.com/LookAround-B/Event_MVP) — commits (6 days ago)
-- [LookAround-B/ai_cavalli_prod](https://github.com/LookAround-B/ai_cavalli_prod) — commits (2 weeks ago)
+- [LookAround-B/Stable](https://github.com/LookAround-B/Stable) — commits (13 hours ago)
+- [LookAround-B/ai_cavalli_prod](https://github.com/LookAround-B/ai_cavalli_prod) — commits (20 hours ago)
+- [LookAround-B/horsey](https://github.com/LookAround-B/horsey) — commits (3 days ago)
+- [LookAround-B/eirs](https://github.com/LookAround-B/eirs) — commits (3 days ago)
+- [LookAround-B/Event_MVP](https://github.com/LookAround-B/Event_MVP) — commits (1 week ago)
 <!--/RECENT_RELEASES-->
 
 #### ⭐ Recent Stars
 <!--RECENT_STARS-->
 - **[jayanthmb14/forthepeople](https://github.com/jayanthmb14/forthepeople)** - India's free, real-time district-level civic transparency platform. 29 dashboards per district. (1 week ago)
-- **[santifer/career-ops](https://github.com/santifer/career-ops)** - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. (1 week ago)
+- **[santifer/career-ops](https://github.com/santifer/career-ops)** - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. (2 weeks ago)
 - **[anthropics/claude-code](https://github.com/anthropics/claude-code)** - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (2 weeks ago)
 - **[Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research)** - Research into how agentic AI coding assistants work — reconstructed prompt patterns, agent coordination, and security classification (2 weeks ago)
 - **[SaiAkhil066/DeepSeek-RAG-Chatbot](https://github.com/SaiAkhil066/DeepSeek-RAG-Chatbot)** - 100 % FREE, Private (No Internet) DeepSeek’s Advanced RAG: Boost Your RAG Chatbot: Hybrid Retrieval (BM25 + FAISS) + Neural Reranking + HyDe🚀 (2 months ago)
