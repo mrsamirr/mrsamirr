@@ -11,8 +11,8 @@ I'm **Md Samer Ansari** — building things on the internet. u can google me �
 
 #### 🚀 Recent contributions
 <!--RECENT_RELEASES-->
-- [LookAround-B/Stable](https://github.com/LookAround-B/Stable) — commits (6 hours ago)
-- [LookAround-B/ai_cavalli_prod](https://github.com/LookAround-B/ai_cavalli_prod) — commits (yesterday)
+- [LookAround-B/Stable](https://github.com/LookAround-B/Stable) — commits (11 hours ago)
+- [LookAround-B/ai_cavalli_prod](https://github.com/LookAround-B/ai_cavalli_prod) — commits (2 days ago)
 - [LookAround-B/horsey](https://github.com/LookAround-B/horsey) — commits (1 week ago)
 - [LookAround-B/eirs](https://github.com/LookAround-B/eirs) — commits (1 week ago)
 - [LookAround-B/Event_MVP](https://github.com/LookAround-B/Event_MVP) — commits (1 week ago)
