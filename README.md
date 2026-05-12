@@ -12,16 +12,19 @@ I'm **Md Samer Ansari** — building things on the internet. u can google me �
 
 #### 🚀 Recent contributions
 <!--RECENT_RELEASES-->
-- Nothing yet — check back soon!
+- [LookAround-B/horsey](https://github.com/LookAround-B/horsey) — commits (13 hours ago)
+- [LookAround-B/ai_cavalli_prod](https://github.com/LookAround-B/ai_cavalli_prod) — commits (yesterday)
+- [LookAround-B/eirs](https://github.com/LookAround-B/eirs) — commits (1 week ago)
+- [LookAround-B/Event_MVP](https://github.com/LookAround-B/Event_MVP) — commits (2 weeks ago)
 <!--/RECENT_RELEASES-->
 
 #### ⭐ Recent Stars
 <!--RECENT_STARS-->
-- **[vasu-devs/JustHireMe](https://github.com/vasu-devs/JustHireMe)** - Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials. (4 days ago)
+- **[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)** - The headless browser for AI agents and web scraping (6 minutes ago)
+- **[vasu-devs/JustHireMe](https://github.com/vasu-devs/JustHireMe)** - Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials. (5 days ago)
 - **[rasinmuhammed/misata](https://github.com/rasinmuhammed/misata)** - High-performance open-source synthetic data engine. Uses LLMs for schema design and vectorized NumPy for deterministic, scalable generation. (1 week ago)
 - **[jayanthmb14/forthepeople](https://github.com/jayanthmb14/forthepeople)** - India's free, real-time district-level civic transparency platform. 29 dashboards per district. (4 weeks ago)
-- **[santifer/career-ops](https://github.com/santifer/career-ops)** - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. (4 weeks ago)
-- **[anthropics/claude-code](https://github.com/anthropics/claude-code)** - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (1 month ago)
+- **[santifer/career-ops](https://github.com/santifer/career-ops)** - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. (1 month ago)
 <!--/RECENT_STARS-->
 
 #### ⤵️ Recent work
