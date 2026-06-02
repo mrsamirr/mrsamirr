@@ -8,23 +8,22 @@ I'm **Md Samer Ansari** — building things on the internet. u can google me �
 - **[mrsamirr/the-assigment](https://github.com/mrsamirr/the-assigment)**
 - **[mrsamirr/the-expo](https://github.com/mrsamirr/the-expo)**
 - **[mrsamirr/velorah](https://github.com/mrsamirr/velorah)**
-- **[mrsamirr/Stable](https://github.com/mrsamirr/Stable)** - NA
 <!--/RECENT_REPOS-->
 
 #### 🚀 Recent contributions
 <!--RECENT_RELEASES-->
-- [LookAround-B/ai_cavalli_prod](https://github.com/LookAround-B/ai_cavalli_prod) — commits (yesterday)
-- [LookAround-B/horsey](https://github.com/LookAround-B/horsey) — commits (2 weeks ago)
+- [LookAround-B/aicavalli](https://github.com/LookAround-B/aicavalli) — commits (23 hours ago)
+- [LookAround-B/horsey](https://github.com/LookAround-B/horsey) — commits (3 weeks ago)
 - [LookAround-B/eirs](https://github.com/LookAround-B/eirs) — commits (4 weeks ago)
 <!--/RECENT_RELEASES-->
 
 #### ⭐ Recent Stars
 <!--RECENT_STARS-->
-- **[nerdyabhi/betterMail](https://github.com/nerdyabhi/betterMail)** - Email inbox with AI inbuilt , helps you manage your multiple emails with ease. (2 days ago)
+- **[rahilp/second-brain-cloudflare](https://github.com/rahilp/second-brain-cloudflare)** - One memory layer, every AI tool. Store anything once — recall it in Claude, ChatGPT, Cursor, or any MCP client. Self-hosted on Cloudflare's free tier. (21 hours ago)
+- **[nerdyabhi/betterMail](https://github.com/nerdyabhi/betterMail)** - Email inbox with AI inbuilt , helps you manage your multiple emails with ease. (3 days ago)
 - **[Bhup-GitHUB/Postgres-cluster-zerodha](https://github.com/Bhup-GitHUB/Postgres-cluster-zerodha)** (2 weeks ago)
 - **[i-OmSharma/veil](https://github.com/i-OmSharma/veil)** - Container runtime in Golang (2 weeks ago)
-- **[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)** - The headless browser for AI agents and web scraping (2 weeks ago)
-- **[vasu-devs/JustHireMe](https://github.com/vasu-devs/JustHireMe)** - Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials. (3 weeks ago)
+- **[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)** - The headless browser for AI agents and web scraping (3 weeks ago)
 <!--/RECENT_STARS-->
 
 #### ⤵️ Recent work
