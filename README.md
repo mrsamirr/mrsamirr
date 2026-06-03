@@ -12,15 +12,14 @@ I'm **Md Samer Ansari** — building things on the internet. u can google me �
 
 #### 🚀 Recent contributions
 <!--RECENT_RELEASES-->
-- [LookAround-B/aicavalli](https://github.com/LookAround-B/aicavalli) — commits (23 hours ago)
+- [LookAround-B/aicavalli](https://github.com/LookAround-B/aicavalli) — commits (14 hours ago)
 - [LookAround-B/horsey](https://github.com/LookAround-B/horsey) — commits (3 weeks ago)
-- [LookAround-B/eirs](https://github.com/LookAround-B/eirs) — commits (4 weeks ago)
 <!--/RECENT_RELEASES-->
 
 #### ⭐ Recent Stars
 <!--RECENT_STARS-->
-- **[rahilp/second-brain-cloudflare](https://github.com/rahilp/second-brain-cloudflare)** - One memory layer, every AI tool. Store anything once — recall it in Claude, ChatGPT, Cursor, or any MCP client. Self-hosted on Cloudflare's free tier. (21 hours ago)
-- **[nerdyabhi/betterMail](https://github.com/nerdyabhi/betterMail)** - Email inbox with AI inbuilt , helps you manage your multiple emails with ease. (3 days ago)
+- **[rahilp/second-brain-cloudflare](https://github.com/rahilp/second-brain-cloudflare)** - One memory layer, every AI tool. Store anything once — recall it in Claude, ChatGPT, Cursor, or any MCP client. Self-hosted on Cloudflare's free tier. (yesterday)
+- **[nerdyabhi/betterMail](https://github.com/nerdyabhi/betterMail)** - Email inbox with AI inbuilt , helps you manage your multiple emails with ease. (4 days ago)
 - **[Bhup-GitHUB/Postgres-cluster-zerodha](https://github.com/Bhup-GitHUB/Postgres-cluster-zerodha)** (2 weeks ago)
 - **[i-OmSharma/veil](https://github.com/i-OmSharma/veil)** - Container runtime in Golang (2 weeks ago)
 - **[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)** - The headless browser for AI agents and web scraping (3 weeks ago)
