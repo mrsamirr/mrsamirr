@@ -12,16 +12,16 @@ I'm **Md Samer Ansari** — building things on the internet. u can google me �
 
 #### 🚀 Recent contributions
 <!--RECENT_RELEASES-->
-- [LookAround-B/aicavalli](https://github.com/LookAround-B/aicavalli) — commits (4 days ago)
+- [LookAround-B/aicavalli](https://github.com/LookAround-B/aicavalli) — commits (5 days ago)
 - [LookAround-B/horsey](https://github.com/LookAround-B/horsey) — commits (3 weeks ago)
 <!--/RECENT_RELEASES-->
 
 #### ⭐ Recent Stars
 <!--RECENT_STARS-->
-- **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** - AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews. (3 days ago)
-- **[rahilp/second-brain-cloudflare](https://github.com/rahilp/second-brain-cloudflare)** - One memory layer, every AI tool. Store anything once — recall it in Claude, ChatGPT, Cursor, or any MCP client. Self-hosted on Cloudflare's free tier. (5 days ago)
+- **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** - AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews. (4 days ago)
+- **[rahilp/second-brain-cloudflare](https://github.com/rahilp/second-brain-cloudflare)** - One memory layer, every AI tool. Store anything once — recall it in Claude, ChatGPT, Cursor, or any MCP client. Self-hosted on Cloudflare's free tier. (6 days ago)
 - **[nerdyabhi/betterMail](https://github.com/nerdyabhi/betterMail)** - Email inbox with AI inbuilt , helps you manage your multiple emails with ease. (1 week ago)
-- **[Bhup-GitHUB/Postgres-cluster-zerodha](https://github.com/Bhup-GitHUB/Postgres-cluster-zerodha)** (2 weeks ago)
+- **[Bhup-GitHUB/Postgres-cluster-zerodha](https://github.com/Bhup-GitHUB/Postgres-cluster-zerodha)** (3 weeks ago)
 - **[i-OmSharma/veil](https://github.com/i-OmSharma/veil)** - Container runtime in Golang (3 weeks ago)
 <!--/RECENT_STARS-->
 
