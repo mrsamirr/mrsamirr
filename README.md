@@ -11,15 +11,15 @@ I'm **Md Samer Ansari** — building things on the internet. u can google me �
 
 #### 🚀 Recent contributions
 <!--RECENT_RELEASES-->
-- [LookAround-B/horsey_scoring](https://github.com/LookAround-B/horsey_scoring) — commits (yesterday)
-- [LookAround-B/eirs](https://github.com/LookAround-B/eirs) — commits (3 days ago)
-- [LookAround-B/nxtsft](https://github.com/LookAround-B/nxtsft) — commits (3 days ago)
+- [LookAround-B/nxtsft](https://github.com/LookAround-B/nxtsft) — commits (9 hours ago)
+- [LookAround-B/horsey_scoring](https://github.com/LookAround-B/horsey_scoring) — commits (2 days ago)
+- [LookAround-B/eirs](https://github.com/LookAround-B/eirs) — commits (4 days ago)
 <!--/RECENT_RELEASES-->
 
 #### ⭐ Recent Stars
 <!--RECENT_STARS-->
 - **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** - AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews. (2 weeks ago)
-- **[rahilp/second-brain-cloudflare](https://github.com/rahilp/second-brain-cloudflare)** - One memory layer, every AI tool. Store anything once — recall it in Claude, ChatGPT, Cursor, or any MCP client. Self-hosted on Cloudflare's free tier. (2 weeks ago)
+- **[rahilp/second-brain-cloudflare](https://github.com/rahilp/second-brain-cloudflare)** - One memory layer, every AI tool. Store anything once — recall it in Claude, ChatGPT, Cursor, or any MCP client. Self-hosted on Cloudflare's free tier. (3 weeks ago)
 - **[nerdyabhi/betterMail](https://github.com/nerdyabhi/betterMail)** - Email inbox with AI inbuilt , helps you manage your multiple emails with ease. (3 weeks ago)
 - **[Bhup-GitHUB/Postgres-cluster-zerodha](https://github.com/Bhup-GitHUB/Postgres-cluster-zerodha)** (1 month ago)
 - **[i-OmSharma/veil](https://github.com/i-OmSharma/veil)** - Container runtime in Golang (1 month ago)
@@ -27,7 +27,7 @@ I'm **Md Samer Ansari** — building things on the internet. u can google me �
 
 #### ⤵️ Recent work
 <!--RECENT_ACTIVITY-->
-- [mrshivamshaw/CodeGyaan2](https://github.com/mrshivamshaw/CodeGyaan2) ➔ **[undefined](undefined)** - 1 week ago
+- [mrshivamshaw/CodeGyaan2](https://github.com/mrshivamshaw/CodeGyaan2) ➔ **[undefined](undefined)** - 2 weeks ago
 <!--/RECENT_ACTIVITY-->
 
 ---
