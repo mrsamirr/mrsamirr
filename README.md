@@ -11,9 +11,9 @@ I'm **Md Samer Ansari** — building things on the internet. u can google me �
 
 #### 🚀 Recent contributions
 <!--RECENT_RELEASES-->
-- [LookAround-B/nxtsft](https://github.com/LookAround-B/nxtsft) — commits (14 hours ago)
-- [Aashish-WDW/gla-waitlist](https://github.com/Aashish-WDW/gla-waitlist) — commits (2 days ago)
-- [LookAround-B/horsey_scoring](https://github.com/LookAround-B/horsey_scoring) — commits (4 days ago)
+- [LookAround-B/nxtsft](https://github.com/LookAround-B/nxtsft) — commits (7 hours ago)
+- [Aashish-WDW/gla-waitlist](https://github.com/Aashish-WDW/gla-waitlist) — commits (3 days ago)
+- [LookAround-B/horsey_scoring](https://github.com/LookAround-B/horsey_scoring) — commits (5 days ago)
 <!--/RECENT_RELEASES-->
 
 #### ⭐ Recent Stars
