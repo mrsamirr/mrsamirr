@@ -11,15 +11,15 @@ I'm **Md Samer Ansari** — building things on the internet. u can google me �
 
 #### 🚀 Recent contributions
 <!--RECENT_RELEASES-->
-- [LookAround-B/nxtsft](https://github.com/LookAround-B/nxtsft) — commits (6 minutes ago)
-- [Aashish-WDW/gla-waitlist](https://github.com/Aashish-WDW/gla-waitlist) — commits (4 days ago)
-- [LookAround-B/horsey_scoring](https://github.com/LookAround-B/horsey_scoring) — commits (6 days ago)
+- [LookAround-B/nxtsft](https://github.com/LookAround-B/nxtsft) — commits (12 hours ago)
+- [Aashish-WDW/gla-waitlist](https://github.com/Aashish-WDW/gla-waitlist) — commits (5 days ago)
+- [LookAround-B/horsey_scoring](https://github.com/LookAround-B/horsey_scoring) — commits (1 week ago)
 <!--/RECENT_RELEASES-->
 
 #### ⭐ Recent Stars
 <!--RECENT_STARS-->
 - **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** - AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews. (4 weeks ago)
-- **[rahilp/second-brain-cloudflare](https://github.com/rahilp/second-brain-cloudflare)** - One memory layer, every AI tool. Store anything once — recall it in Claude, ChatGPT, Cursor, or any MCP client. Self-hosted on Cloudflare's free tier. (4 weeks ago)
+- **[rahilp/second-brain-cloudflare](https://github.com/rahilp/second-brain-cloudflare)** - One memory layer, every AI tool. Store anything once — recall it in Claude, ChatGPT, Cursor, or any MCP client. Self-hosted on Cloudflare's free tier. (1 month ago)
 - **[nerdyabhi/betterMail](https://github.com/nerdyabhi/betterMail)** - Email inbox with AI inbuilt , helps you manage your multiple emails with ease. (1 month ago)
 - **[Bhup-GitHUB/Postgres-cluster-zerodha](https://github.com/Bhup-GitHUB/Postgres-cluster-zerodha)** (1 month ago)
 - **[i-OmSharma/veil](https://github.com/i-OmSharma/veil)** - Container runtime in Golang (1 month ago)
@@ -27,7 +27,7 @@ I'm **Md Samer Ansari** — building things on the internet. u can google me �
 
 #### ⤵️ Recent work
 <!--RECENT_ACTIVITY-->
-- [mrshivamshaw/CodeGyaan2](https://github.com/mrshivamshaw/CodeGyaan2) ➔ **[undefined](undefined)** - 3 weeks ago
+- [mrshivamshaw/CodeGyaan2](https://github.com/mrshivamshaw/CodeGyaan2) ➔ **[undefined](undefined)** - 4 weeks ago
 <!--/RECENT_ACTIVITY-->
 
 ---
