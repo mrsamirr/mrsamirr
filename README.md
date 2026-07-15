@@ -11,8 +11,8 @@ I'm **Md Samer Ansari** — building things on the internet. u can google me �
 
 #### 🚀 Recent contributions
 <!--RECENT_RELEASES-->
-- [LookAround-B/nxtsft](https://github.com/LookAround-B/nxtsft) — commits (15 hours ago)
-- [LookAround-B/horsey_scoring](https://github.com/LookAround-B/horsey_scoring) — commits (5 days ago)
+- [LookAround-B/nxtsft](https://github.com/LookAround-B/nxtsft) — commits (14 hours ago)
+- [LookAround-B/horsey_scoring](https://github.com/LookAround-B/horsey_scoring) — commits (6 days ago)
 - [Aashish-WDW/gla-waitlist](https://github.com/Aashish-WDW/gla-waitlist) — commits (1 week ago)
 <!--/RECENT_RELEASES-->
 
@@ -27,7 +27,7 @@ I'm **Md Samer Ansari** — building things on the internet. u can google me �
 
 #### ⤵️ Recent work
 <!--RECENT_ACTIVITY-->
-- [mrshivamshaw/CodeGyaan2](https://github.com/mrshivamshaw/CodeGyaan2) ➔ **[undefined](undefined)** - yesterday
+- [mrshivamshaw/CodeGyaan2](https://github.com/mrshivamshaw/CodeGyaan2) ➔ **[undefined](undefined)** - 2 days ago
 <!--/RECENT_ACTIVITY-->
 
 ---
