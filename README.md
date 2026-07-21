@@ -4,14 +4,14 @@ I'm **Md Samer Ansari** — building things on the internet. u can google me �
 
 #### 👨‍💻 Repositories I created recently
 <!--RECENT_REPOS-->
+- **[mrsamirr/me](https://github.com/mrsamirr/me)**
 - **[mrsamirr/packages](https://github.com/mrsamirr/packages)** - useful packages
 - **[mrsamirr/the-assigment](https://github.com/mrsamirr/the-assigment)**
-- **[mrsamirr/the-expo](https://github.com/mrsamirr/the-expo)**
 <!--/RECENT_REPOS-->
 
 #### 🚀 Recent contributions
 <!--RECENT_RELEASES-->
-- [LookAround-B/nxtsft](https://github.com/LookAround-B/nxtsft) — commits (yesterday)
+- [LookAround-B/nxtsft](https://github.com/LookAround-B/nxtsft) — commits (2 days ago)
 - [LookAround-B/horsey_scoring](https://github.com/LookAround-B/horsey_scoring) — commits (1 week ago)
 - [Aashish-WDW/gla-waitlist](https://github.com/Aashish-WDW/gla-waitlist) — commits (2 weeks ago)
 <!--/RECENT_RELEASES-->
