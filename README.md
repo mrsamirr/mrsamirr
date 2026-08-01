@@ -11,9 +11,8 @@ I'm **Md Samer Ansari** — building things on the internet. u can google me �
 
 #### 🚀 Recent contributions
 <!--RECENT_RELEASES-->
-- [LookAround-B/horsey_scoring](https://github.com/LookAround-B/horsey_scoring) — commits (4 days ago)
+- [LookAround-B/horsey_scoring](https://github.com/LookAround-B/horsey_scoring) — commits (5 days ago)
 - [LookAround-B/nxtsft](https://github.com/LookAround-B/nxtsft) — commits (1 week ago)
-- [Aashish-WDW/gla-waitlist](https://github.com/Aashish-WDW/gla-waitlist) — commits (4 weeks ago)
 <!--/RECENT_RELEASES-->
 
 #### ⭐ Recent Stars
@@ -21,7 +20,7 @@ I'm **Md Samer Ansari** — building things on the internet. u can google me �
 - **[mrsamirr/me](https://github.com/mrsamirr/me)** (1 week ago)
 - **[mickadesign/metadata-gen](https://github.com/mickadesign/metadata-gen)** - Zero-install CLI to generate OG metadata images and favicon sets from your project's existing assets and config (1 week ago)
 - **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. (1 month ago)
-- **[rahilp/second-brain-cloudflare](https://github.com/rahilp/second-brain-cloudflare)** - One memory layer, every AI tool. Store anything once — recall it in Claude, ChatGPT, Cursor, or any MCP client. Self-hosted on Cloudflare's free tier. (1 month ago)
+- **[rahilp/second-brain-cloudflare](https://github.com/rahilp/second-brain-cloudflare)** - One memory layer, every AI tool. Store anything once — recall it in Claude, ChatGPT, Cursor, or any MCP client. Self-hosted on Cloudflare's free tier. (2 months ago)
 - **[nerdyabhi/betterMail](https://github.com/nerdyabhi/betterMail)** - Email inbox with AI inbuilt , helps you manage your multiple emails with ease. (2 months ago)
 <!--/RECENT_STARS-->
 
