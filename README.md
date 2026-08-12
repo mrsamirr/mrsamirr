@@ -11,14 +11,14 @@ I'm **Md Samer Ansari** — building things on the internet. u can google me �
 
 #### 🚀 Recent contributions
 <!--RECENT_RELEASES-->
-- [LookAround-B/nxtsft](https://github.com/LookAround-B/nxtsft) — commits (18 hours ago)
+- [LookAround-B/nxtsft](https://github.com/LookAround-B/nxtsft) — commits (yesterday)
 - [LookAround-B/horsey_scoring](https://github.com/LookAround-B/horsey_scoring) — commits (2 weeks ago)
 <!--/RECENT_RELEASES-->
 
 #### ⭐ Recent Stars
 <!--RECENT_STARS-->
-- **[mrsamirr/me](https://github.com/mrsamirr/me)** (2 weeks ago)
-- **[mickadesign/metadata-gen](https://github.com/mickadesign/metadata-gen)** - Zero-install CLI to generate OG metadata images and favicon sets from your project's existing assets and config (2 weeks ago)
+- **[mrsamirr/me](https://github.com/mrsamirr/me)** (3 weeks ago)
+- **[mickadesign/metadata-gen](https://github.com/mickadesign/metadata-gen)** - Zero-install CLI to generate OG metadata images and favicon sets from your project's existing assets and config (3 weeks ago)
 - **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. (2 months ago)
 - **[rahilp/second-brain-cloudflare](https://github.com/rahilp/second-brain-cloudflare)** - One memory layer, every AI tool. Store anything once — recall it in Claude, ChatGPT, Cursor, or any MCP client. Self-hosted on Cloudflare's free tier. (2 months ago)
 - **[nerdyabhi/betterMail](https://github.com/nerdyabhi/betterMail)** - Email inbox with AI inbuilt , helps you manage your multiple emails with ease. (2 months ago)
@@ -26,7 +26,7 @@ I'm **Md Samer Ansari** — building things on the internet. u can google me �
 
 #### ⤵️ Recent work
 <!--RECENT_ACTIVITY-->
-- [mrshivamshaw/CodeGyaan2](https://github.com/mrshivamshaw/CodeGyaan2) ➔ **[undefined](undefined)** - 4 weeks ago
+- No public activity yet!
 <!--/RECENT_ACTIVITY-->
 
 ---
