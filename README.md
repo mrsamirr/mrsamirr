@@ -12,7 +12,7 @@ I'm **Md Samer Ansari** — building things on the internet. u can google me �
 #### 🚀 Recent contributions
 <!--RECENT_RELEASES-->
 - [LookAround-B/nxtsft](https://github.com/LookAround-B/nxtsft) — commits (1 week ago)
-- [LookAround-B/horsey_scoring](https://github.com/LookAround-B/horsey_scoring) — commits (3 weeks ago)
+- [LookAround-B/horsey_scoring](https://github.com/LookAround-B/horsey_scoring) — commits (4 weeks ago)
 <!--/RECENT_RELEASES-->
 
 #### ⭐ Recent Stars
