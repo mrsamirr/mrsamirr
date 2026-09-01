@@ -11,7 +11,7 @@ I'm **Md Samer Ansari** — building things on the internet. u can google me �
 
 #### 🚀 Recent contributions
 <!--RECENT_RELEASES-->
-- [LookAround-B/nxtsft](https://github.com/LookAround-B/nxtsft) — commits (2 weeks ago)
+- [LookAround-B/nxtsft](https://github.com/LookAround-B/nxtsft) — commits (3 weeks ago)
 <!--/RECENT_RELEASES-->
 
 #### ⭐ Recent Stars
