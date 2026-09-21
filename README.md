@@ -6,7 +6,6 @@ I'm **Md Samer Ansari** — building things on the internet. u can google me �
 <!--RECENT_REPOS-->
 - **[mrsamirr/me](https://github.com/mrsamirr/me)**
 - **[mrsamirr/packages](https://github.com/mrsamirr/packages)** - useful packages
-- **[mrsamirr/the-assigment](https://github.com/mrsamirr/the-assigment)**
 <!--/RECENT_REPOS-->
 
 #### 🚀 Recent contributions
@@ -16,11 +15,11 @@ I'm **Md Samer Ansari** — building things on the internet. u can google me �
 
 #### ⭐ Recent Stars
 <!--RECENT_STARS-->
+- **[karansinghgit/speaktype](https://github.com/karansinghgit/speaktype)** - 100% offline, open-source, Voice Dictation app on any OS (13 hours ago)
 - **[mrsamirr/me](https://github.com/mrsamirr/me)** (2 months ago)
 - **[mickadesign/metadata-gen](https://github.com/mickadesign/metadata-gen)** - Zero-install CLI to generate OG metadata images and favicon sets from your project's existing assets and config (2 months ago)
 - **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. (3 months ago)
 - **[rahilp/second-brain-cloudflare](https://github.com/rahilp/second-brain-cloudflare)** - One memory layer, every AI tool. Store anything once — recall it in Claude, ChatGPT, Cursor, or any MCP client. Self-hosted on Cloudflare's free tier. (3 months ago)
-- **[nerdyabhi/betterMail](https://github.com/nerdyabhi/betterMail)** - Email inbox with AI inbuilt , helps you manage your multiple emails with ease. (3 months ago)
 <!--/RECENT_STARS-->
 
 #### ⤵️ Recent work
