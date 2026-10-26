@@ -14,7 +14,7 @@ I'm **Md Samer Ansari** — building things on the internet. u can google me �
 
 #### ⭐ Recent Stars
 <!--RECENT_STARS-->
-- **[karansinghgit/speaktype](https://github.com/karansinghgit/speaktype)** - 100% offline, open-source, Voice Dictation app on any OS (4 weeks ago)
+- **[karansinghgit/speaktype](https://github.com/karansinghgit/speaktype)** - 100% offline, open-source, Voice Dictation app on any OS (1 month ago)
 - **[mrsamirr/me](https://github.com/mrsamirr/me)** (3 months ago)
 - **[mickadesign/metadata-gen](https://github.com/mickadesign/metadata-gen)** - Zero-install CLI to generate OG metadata images and favicon sets from your project's existing assets and config (3 months ago)
 - **[ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search)** - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. (4 months ago)
