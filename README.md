@@ -18,7 +18,7 @@ I'm **Md Samer Ansari** — building things on the internet. u can google me �
 - **[mrsamirr/me](https://github.com/mrsamirr/me)** (3 months ago)
 - **[mickadesign/metadata-gen](https://github.com/mickadesign/metadata-gen)** - Zero-install CLI to generate OG metadata images and favicon sets from your project's existing assets and config (3 months ago)
 - **[ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search)** - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. (4 months ago)
-- **[rahilp/second-brain-cloudflare](https://github.com/rahilp/second-brain-cloudflare)** - One memory layer, every AI tool. Store anything once — recall it in Claude, ChatGPT, Cursor, or any MCP client. Self-hosted on Cloudflare's free tier. (4 months ago)
+- **[rahilp/second-brain-cloudflare](https://github.com/rahilp/second-brain-cloudflare)** - One memory layer, every AI tool. Store anything once — recall it in Claude, ChatGPT, Cursor, or any MCP client. Self-hosted on Cloudflare's free tier. (5 months ago)
 <!--/RECENT_STARS-->
 
 #### ⤵️ Recent work
